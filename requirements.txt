@@ -1,0 +1,17 @@
+# General
+wheel
+fastapi
+uvicorn
+requests
+openai
+pinecone
+boto3
+assemblyai
+python-dotenv
+
+pytest
+piccolo[pytest]
+sentry-sdk[fastapi]
+
+httpx
+asyncpg

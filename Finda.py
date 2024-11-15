@@ -1,0 +1,1 @@
+from Finda_AI.main import app
